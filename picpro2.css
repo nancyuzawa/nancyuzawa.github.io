@@ -1,0 +1,10 @@
+
+a:link, a:visited {
+    color: rgb(63, 182, 17);
+    text-decoration: underline;
+    cursor: auto;
+  }
+  
+  a:link:active, a:visited:active {
+    color: rgb(27, 152, 202);
+  }

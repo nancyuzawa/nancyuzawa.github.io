@@ -1,0 +1,8 @@
+.skip-link {
+    position: absolute;
+    top: -3em;
+    background: rgb(0, 0, 0);
+  }
+  .skip-link:focus {
+    top: 0;
+  }
